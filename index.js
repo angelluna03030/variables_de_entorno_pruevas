@@ -1,3 +1,6 @@
 console.log(
-    process.env.INFO_SENCIBLE
+    process.env.LINUX
 )
+
+
+
